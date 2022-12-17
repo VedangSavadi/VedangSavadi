@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Vedang Savadi</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 
-<img align="right" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/10/hny.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedangsavadi&label=Profile%20views&color=0e75b6&style=flat" alt="vedangsavadi" /> </p>
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 📫 How to reach me **vedang.guru@gamil.com**
+- 📫 reach me at **vedang.guru@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
