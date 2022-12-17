@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Vedang Savadi</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 
-<img align="right" width="500" src="https://github.com/VedangSavadi/VedangSavadi/blob/main/data%20science.gif"> 
+<img align="right" width="400" src="https://github.com/VedangSavadi/VedangSavadi/blob/main/data%20science.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedangsavadi&label=Profile%20views&color=0e75b6&style=flat" alt="vedangsavadi" /> </p>
 
