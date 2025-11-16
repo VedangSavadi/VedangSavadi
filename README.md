@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedangsavadi&label=Profile%20views&color=0e75b6&style=flat" alt="vedangsavadi" /> </p>
 
-- 🌱 I’m currently learning **Deep learning**
 
 - 📫 reach me at **vedang.guru@gamil.com**
 
