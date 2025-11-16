@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vedang-savadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedang savadi" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/vedangsavadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vedang savadi" height="30" width="40" /></a>
-<a href="https://www.naukri.com/mnjuser/profile" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fx.com%2FNaukri&psig=AOvVaw2TN479Fp5v4K7P2eJA7fwB&ust=1763367749722000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiWh_We9pADFQAAAAAdAAAAABAE" alt="vedang savadi" height="30" width="40" /></a>
+<a href="https://www.naukri.com/mnjuser/profile" target="blank"><img align="center" src="https://static.naukimg.com/s/0/0/i/new-logos/naukri_og_fulllogo_200x200.png" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
